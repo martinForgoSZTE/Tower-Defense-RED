@@ -122,7 +122,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Critter.h" />
+    <ClInclude Include="inc\Critter.h" />
     <ClInclude Include="inc\Observable.h" />
     <ClInclude Include="inc\Observer.h" />
   </ItemGroup>
